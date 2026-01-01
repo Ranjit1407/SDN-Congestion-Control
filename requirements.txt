@@ -1,0 +1,9 @@
+ryu==4.34
+torch>=2.0.0
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+eventlet==0.31.1
+networkx
